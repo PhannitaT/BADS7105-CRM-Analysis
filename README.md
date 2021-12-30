@@ -2,7 +2,7 @@
 ฺ
 Phannita Thianthammachat 6310412026
 
-## Content :
+## Content
 * [HW 1 : CLV Dashboard](https://github.com/PhannitaT/BADS7105-CRM-Analytics/tree/main/HW%201%20:%20CLV%20Dashboard)
 * [HW 2 : Customer Segmentation](https://github.com/PhannitaT/BADS7105-CRM-Analytics/tree/main/HW%202%20:%20Customer%20Segmentation)
 * [HW 3 : Product Recommendation](https://github.com/PhannitaT/BADS7105-CRM-Analytics/tree/main/HW%203%20:%20Product%20Recommendation)
