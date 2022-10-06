@@ -1,7 +1,5 @@
 # BADS7105-CRM-Analytics-and-Intelligence
-ฺ
-Phannita Thianthammachat 
-ID 6310412026
+
 
 ## Contents
   [ALL](https://github.com/PhannitaT/BADS7105-CRM-Analytics/blob/main/BADS715_CRM_Analytics_6310412026.pdf)
